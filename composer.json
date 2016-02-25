@@ -1,6 +1,6 @@
 {
     "name": "edenchan/entrust",
-    "description": "This package fixex zizaco/entrust 'can' method collision with laravel Authorizable",
+    "description": "This package fixes zizaco/entrust 'can' method collision with laravel Authorizable",
     "keywords": ["laravel","illuminate","auth","roles","acl","permission"],
     "license": "MIT",
     "authors": [
